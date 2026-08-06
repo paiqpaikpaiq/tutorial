@@ -1,4 +1,4 @@
-Perintah untuk aplikasi git
+Perintah untuk aplikasi git.
 
 [buat akun git]
 
@@ -9,11 +9,11 @@ git config --list
 hapus credensial windows
 
 
-untuk pull
+untuk pull.
 
 git clone https://github.com/paiqpaikpaiq/paik
 
-untuk push
+untuk push.
 
 [add file]
 
