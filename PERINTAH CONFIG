@@ -18,6 +18,6 @@ untuk push.
 [add file]
 
 git add.
-git commit - "server jdango test"
+git commit - "paiqpaiq"
 git push origin main
 git log
